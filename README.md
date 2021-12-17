@@ -1,1 +1,2 @@
-# rock-paper-scisssors-CPP
+# rock-paper-scisssors C++ game
+
